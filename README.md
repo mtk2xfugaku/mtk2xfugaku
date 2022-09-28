@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi, This is solitary_crow 
 
-## Profecient in
+## Proficient in
 - C
 - Fortran
 - Python
